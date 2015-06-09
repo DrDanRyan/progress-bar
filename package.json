@@ -1,0 +1,14 @@
+{
+  "name": "@drdanryan/progress-bar",
+  "version": "1.0.0",
+  "description": "My wrapper for 'progress' module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Ryan",
+  "license": "ISC",
+  "dependencies": {
+    "progress": "^1.1.8"
+  }
+}
