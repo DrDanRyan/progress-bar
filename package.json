@@ -1,11 +1,12 @@
 {
-  "name": "@drdanryan/progress-bar",
+  "name": "simple-progress",
   "version": "1.0.0",
-  "description": "My wrapper for 'progress' module",
+  "description": "A thin wrapper for the 'progress' module to keep things simple",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": "github:drdanryan/simple-progress",
   "author": "Dan Ryan",
   "license": "ISC",
   "dependencies": {
