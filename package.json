@@ -1,5 +1,5 @@
 {
-  "name": "simple-progress",
+  "name": "@drdanryan/simple-progress",
   "version": "1.0.0",
   "description": "A thin wrapper for the 'progress' module to keep things simple",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "Dan Ryan",
   "license": "ISC",
   "dependencies": {
-    "progress": "^1.1.8"
+    "progress": "*"
   }
 }
